@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- BANNER HEADER: Diseño tecnológico Púrpura/Dark -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=300&section=header&text=AI%20Engineering%20%26%20Automation&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%" />
+  <!-- BANNER HEADER: Tu imagen personalizada -->
+  <img src="./Perfil.png" width="100%" alt="AI Engineering Banner" />
 
   <!-- TYPING ANIMATION: Efecto de escritura -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=AI+Engineer+%7C+Automation+Specialist;Multi-Agent+Systems+Architect;Python+%7C+FastAPI+%7C+React+Expert;Building+the+Future+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
@@ -180,13 +180,5 @@ Transforming businesses through **AI Automation** and **Multi-Agent Systems**. E
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=fff&animation=twinkling" width="100%" />
   
   <sub>💜 Powered by AI & Passion for Innovation</sub>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
-  
-  <sub>💜 Crafted with passion for AI & Innovation</sub>
 </div>
 
